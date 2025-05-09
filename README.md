@@ -1,5 +1,7 @@
+![](https://komarev.com/ghpvc/?username=zumi002&style=pixel)
+
 <h1 align="center">
-Hi, I'm Marcin
+Hi👋 , I'm Marcin
 </h1>
 
 ## About me:
